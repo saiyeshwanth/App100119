@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App 10_01_19</string>
+    <string name="email_mno">Enter Phone Number/ Email ID</string>
+    <string name="pwd">Enter Password</string>
+    <string name="fpwd">Forgot Password</string>
+    <string name="signin">Sign In</string>
+    <string name="signuptext">Don\'t you have an account?</string>
+    <string name="signup">Sign Up</string>
+</resources>
